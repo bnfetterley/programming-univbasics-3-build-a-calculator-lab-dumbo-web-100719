@@ -23,5 +23,5 @@ remainder = num1 % num2
 end
 
 def square_root(num)
-Math.sqrt
+Math.sqrt(9)
 end
