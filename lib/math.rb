@@ -28,6 +28,7 @@ product(9,9)
 
 def modulo(num1, num2)
 remainder = num1 % num2
+print remainder
 end
 
 modulo = (9,9)
