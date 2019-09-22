@@ -32,6 +32,6 @@ end
 
 modulo = (9,9)
 
-def square_root(num)
-Math.sqrt(9)
-end
+#def square_root(num)
+#Math.sqrt(9)
+#end
