@@ -7,8 +7,8 @@ end
 addition(9,9)
 
 
-#def subtraction(num1,num2)
-#difference = num1 - num2
+def subtraction(num1,num2)
+difference = num1 - num2
 #print remainder
 #end
 
