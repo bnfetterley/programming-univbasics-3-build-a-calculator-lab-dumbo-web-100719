@@ -14,12 +14,12 @@ end
 
 subtraction(9,9)
 
-#def division(num1, num2)
-#quotient = num1 / num2
-#print quotient
-#end
+def division(num1, num2)
+quotient = num1 / num2
+puts quotient
+end
 
-#quotient(9,9)
+division(9,9)
 
 #def multiplication(num1, num2)
 #product = num1 * num2
