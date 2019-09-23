@@ -1,7 +1,7 @@
 
 def addition(num1,num2)
 sum = num1 + num2
-put #{sum}
+p #{sum}
 end
 
 addition(9,9)
