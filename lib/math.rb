@@ -1,7 +1,8 @@
 
 def addition(num1,num2)
 sum = num1 + num2
-p #{sum}
+num 1 + num 2 
+print #{sum}
 end
 
 addition(9,9)
