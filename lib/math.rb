@@ -28,12 +28,12 @@ end
 
 multiplication(9,9)
 
-#def modulo(num1, num2)
-#remainder = num1 % num2
-#print remainder
-#end
+def modulo(num1, num2)
+remainder = num1 % num2
+puts remainder
+end
 
-#modulo = (9,9)
+modulo = (9,9)
 
 #def square_root(num)
 #Math.sqrt(9)
