@@ -12,7 +12,7 @@ difference = num1 - num2
 puts difference
 end
 
-difference (9,9)
+subtraction (9,9)
 
 #def division(num1, num2)
 #quotient = num1 / num2
