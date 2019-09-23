@@ -33,7 +33,7 @@ remainder = num1 % num2
 puts remainder
 end
 
-modulo = (9,9)
+modulo(9,9)
 
 #def square_root(num)
 #Math.sqrt(9)
