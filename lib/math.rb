@@ -3,9 +3,8 @@ def addition(num1,num2)
 #sum = #{num1} + #{num2}
 end
 
-addition (9,9)
+addition(9,9)
 
-end
 
 #def subtraction(num1,num2)
 #difference = num1 - num2
