@@ -21,12 +21,12 @@ end
 
 division(9,9)
 
-#def multiplication(num1, num2)
-#product = num1 * num2
-#print product
-#end
+def multiplication(num1, num2)
+product = num1 * num2
+puts product
+end
 
-#product(9,9)
+multiplication(9,9)
 
 #def modulo(num1, num2)
 #remainder = num1 % num2
